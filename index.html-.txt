@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Anisa Hijab Official</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff5f7;
+        }
+        header {
+            background-color: #d63384;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #f8d7e3;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #d63384;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        .product {
+            display: inline-block;
+            width: 200px;
+            margin: 15px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #d63384;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+        button {
+            background-color: #d63384;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Anisa Hijab Official</h1>
+    <p>Tampil Cantik & Syar'i Setiap Hari</p>
+</header>
+
+<nav>
+    <a href="#">Beranda</a>
+    <a href="#">Produk</a>
+    <a href="#">Kontak</a>
+</nav>
+
+<section>
+    <h2>Produk Terbaru</h2>
+
+    <div class="product">
+        <h3>Hijab Paris jadul 2 oval</h3>
+        <p>Harga: Rp25.500</p>
+        <button>Beli Sekarang</button>
+    </div>
+
+    <div class="product">
+        <h3>Hijab Viola Paris</h3>
+        <p>Harga: Rp28.000</p>
+        <button>Beli Sekarang</button>
+    </div>
+
+</section>
+<a href="https://wa.me/6283197752086" target="_blank">
+    <button>Pesan via WhatsApp</button>
+</a>
+<footer>
+    <p>© 2026 Anisa Hijab Official | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
